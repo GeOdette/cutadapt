@@ -8,6 +8,8 @@ FROM 812206152185.dkr.ecr.us-west-2.amazonaws.com/latch-base:02ab-main
 # RUN conda create -n cutadaptenv cutadapt &&\
 # conda activate cutadaptenv
 
+# COPY paired_reads.py paired_reads.py
+
 # install cutadapt
 RUN apt-get install sudo
 RUN sudo python3 -m pip install cutadapt
