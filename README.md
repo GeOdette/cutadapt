@@ -6,7 +6,9 @@
 
 </p> 
 
-<p align="center"> [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ge_odette.svg?style=social&label=Follow%20%40ge_odette)](https://twitter.com/ge_odette)
+<p align="center">
+   
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ge_odette.svg?style=social&label=Follow%20%40ge_odette)](https://twitter.com/ge_odette)
     
 </p>
 
