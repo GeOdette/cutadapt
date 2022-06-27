@@ -4,11 +4,7 @@
     
 [Launch the workflow at the Latch console](https://console.latch.bio/explore/62939/info)
 
-</p>
-
-<p align="center">
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ge_odette.svg?style=social&label=Follow%20%40ge_odette)](https://twitter.com/ge_odette)
-</p>
+</p> <p align="center"> [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ge_odette.svg?style=social&label=Follow%20%40ge_odette)](https://twitter.com/ge_odette) </p>
 
 # Remove adapter sequences, primers, poly-A tails and other types of unwanted sequence using cutadapt | [Pertinent information obtained from cutadapt original documentation](https://cutadapt.readthedocs.io/en/stable/)
 
