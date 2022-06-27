@@ -6,6 +6,8 @@
     
 </p>
 
+<h1 align="center">https://twitter.com/intent/follow?screen_name=jlsteenwyk<h1>
+
 # Remove adapter sequences, primers, poly-A tails and other types of unwanted sequence using cutadapt | [Pertinent information obtained from cutadapt original documentation](https://cutadapt.readthedocs.io/en/stable/)
 
 
